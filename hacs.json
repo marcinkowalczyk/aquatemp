@@ -1,0 +1,7 @@
+{
+  "name": "AquaTemp",
+  "render_readme": false,
+  "hacs": "0.1.0",
+  "homeassistant": "2021.6.0",
+  "iot_class": "Cloud Polling"
+}
